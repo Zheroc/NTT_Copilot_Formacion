@@ -361,8 +361,8 @@ header h1 {
 
 /* Footer */
 .main-footer {
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
+    background: #1a1a1a;
+    color: #ffffff;
     padding: 2rem 0;
     text-align: center;
 }
@@ -375,9 +375,10 @@ header h1 {
 }
 
 .footer-links a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s ease;
+    font-weight: 500;
 }
 
 .footer-links a:hover {
